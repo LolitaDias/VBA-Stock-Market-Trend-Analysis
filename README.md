@@ -40,7 +40,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
   * A screen shot for each year of your results on the Multi Year Stock Data.
 
-  * VBA Scripts as separate files.
+ 
 
 
 
