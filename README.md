@@ -48,4 +48,4 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+
