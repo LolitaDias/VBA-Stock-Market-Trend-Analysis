@@ -22,7 +22,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-![moderate_solution](Images/moderate_solution.png)
 
 ### CHALLENGES
 
