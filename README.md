@@ -18,7 +18,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
  
 
-  * The total stock volume of the stock.
+
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
