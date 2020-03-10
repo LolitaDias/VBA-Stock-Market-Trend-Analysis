@@ -42,7 +42,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
   * VBA Scripts as separate files.
 
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
+
 
 
 
