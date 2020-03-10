@@ -27,7 +27,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+
 
 ### Other Considerations
 
