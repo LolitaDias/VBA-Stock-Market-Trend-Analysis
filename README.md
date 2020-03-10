@@ -38,7 +38,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 * To submit please upload the following to Github:
 
-  * A screen shot for each year of your results on the Multi Year Stock Data.
+
 
  
 
