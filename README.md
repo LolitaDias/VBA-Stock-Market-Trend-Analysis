@@ -46,6 +46,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 - - -
 
-### Copyright
+
 
 
