@@ -21,7 +21,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-* The result should look as follows.
 
 ![moderate_solution](Images/moderate_solution.png)
 
