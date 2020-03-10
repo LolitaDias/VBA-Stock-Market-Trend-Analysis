@@ -10,7 +10,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-* Create a script that will loop through all the stocks for one year for each run and take the following information.
+
 
   * The ticker symbol.
 
