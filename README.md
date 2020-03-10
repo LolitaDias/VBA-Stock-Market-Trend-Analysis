@@ -33,7 +33,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
 ## Submission
 
