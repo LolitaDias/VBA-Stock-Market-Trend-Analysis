@@ -20,7 +20,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 * The result should look as follows.
 
