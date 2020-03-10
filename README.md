@@ -23,7 +23,6 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-### CHALLENGES
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume". The solution will look as follows:
 
