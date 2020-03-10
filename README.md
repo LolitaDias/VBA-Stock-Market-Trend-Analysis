@@ -12,7 +12,7 @@ In this assignment we have used VBA scripting to analyze the real stock market d
 
 
 
-  * The ticker symbol.
+ 
 
   * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 
